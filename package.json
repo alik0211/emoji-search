@@ -1,8 +1,8 @@
 {
   "name": "emoji-search",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
-  "homepage": "http://ahfarmer.github.io/emoji-search",
+  "homepage": "https://alik0211.ru/emoji-search",
   "devDependencies": {
     "react-scripts": "^1.0.10"
   },
