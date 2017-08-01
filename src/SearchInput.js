@@ -1,19 +1,12 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import './SearchInput.css';
 
-function SearchInput(props) {
-  return (
-    <div className="component-search-input">
-      <div>
-        <input onChange={props.textChange} />
-      </div>
+const SearchInput = ({ textChange }) => (
+  <div className="component-search-input">
+    <div>
+      <input onChange={textChange} />
     </div>
-  )
-}
-
-SearchInput.propTypes = {
-  textChange: PropTypes.func,
-};
+  </div>
+);
 
 export default SearchInput;
