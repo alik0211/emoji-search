@@ -16,7 +16,7 @@ class App extends Component {
 
   handleSearchChange(event) {
     this.setState({
-      filteredEmoji: filterEmoji(event.target.value, 20),
+      filteredEmoji: filterEmoji(event.target.value, 20)
     });
   }
 
