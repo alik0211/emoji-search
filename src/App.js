@@ -8,7 +8,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      filteredEmoji: filterEmoji('', 20),
+      filteredEmoji: filterEmoji('', 20)
     };
 
     this.handleSearchChange = this.handleSearchChange.bind(this)
