@@ -4,7 +4,7 @@ import './SearchInput.css';
 const SearchInput = ({ textChange }) => (
   <div className="component-search-input">
     <div>
-      <input onChange={textChange} />
+      <input type="text" onChange={textChange} />
     </div>
   </div>
 );
