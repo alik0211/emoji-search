@@ -3,7 +3,7 @@ import EmojiResultRow from './EmojiResultRow';
 import './EmojiResults.css';
 
 const EmojiResults = ({ emojiData }) => (
-  <div className="component-emoji-results">
+  <div className="emoji-results">
     {emojiData.map(emoji => {
         return (
           <EmojiResultRow

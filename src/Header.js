@@ -2,7 +2,7 @@ import React from 'react';
 import './Header.css';
 
 const Header = () => (
-  <header className="component-header">
+  <header className="header">
     <img
       src="//cdn.jsdelivr.net/emojione/assets/png/269b.png"
       width="32"
