@@ -3,9 +3,7 @@ import './SearchInput.css';
 
 const SearchInput = ({ textChange }) => (
   <div className="search-input">
-    <div>
-      <input type="text" onChange={textChange} />
-    </div>
+    <input type="text" onChange={textChange} />
   </div>
 );
 
