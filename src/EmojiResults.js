@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import EmojiResultRow from './EmojiResultRow';
 import './EmojiResults.css';
 
@@ -16,5 +17,9 @@ const EmojiResults = ({ emojiData }) => (
     }
   </div>
 );
+
+EmojiResults.propTypes = {
+  emojiData: PropTypes.array,
+};
 
 export default EmojiResults;
