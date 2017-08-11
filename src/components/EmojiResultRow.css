@@ -1,8 +1,8 @@
 .emoji-result-row {
-  border-top: 1px solid #ccc;
+  position: relative;
   padding: 10px;
   height: 32px;
-  position: relative;
+  border-top: 1px solid #ccc;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   cursor: pointer;
 }
@@ -12,9 +12,9 @@
 }
 
 .emoji-result-row img {
+  padding-right: 10px;
   width: 32px;
   height: 32px;
-  padding-right: 10px;
 }
 
 .emoji-result-row .title {
