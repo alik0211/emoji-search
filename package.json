@@ -1,6 +1,6 @@
 {
   "name": "emoji-search",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "private": true,
   "homepage": "https://alik0211.ru/emoji-search",
   "devDependencies": {
@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "prop-types": "^15.6.1",
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1"
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
