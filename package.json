@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://alik0211.ru/emoji-search",
   "devDependencies": {
-    "react-scripts": "^1.0.10"
+    "react-scripts": "2.0.4"
   },
   "dependencies": {
     "prop-types": "^15.6.1",
