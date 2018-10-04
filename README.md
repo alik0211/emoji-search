@@ -1,5 +1,6 @@
 # Emoji Search
 
+[![Travis](https://img.shields.io/travis/com/alik0211/emoji-search/master.svg?style=flat-square)](https://travis-ci.com/alik0211/emoji-search)
 [![Dependency Status](https://img.shields.io/david/alik0211/emoji-search.svg?label=deps&style=flat-square)](https://david-dm.org/alik0211/emoji-search)
 [![devDependency Status](https://img.shields.io/david/dev/alik0211/emoji-search.svg?label=devDeps&style=flat-square)](https://david-dm.org/alik0211/emoji-search?type=dev)
 
